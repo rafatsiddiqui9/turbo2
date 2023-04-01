@@ -1,0 +1,35 @@
+2023/04/01-11:52:02.143 4f5 Recovering log #110
+2023/04/01-11:52:02.216 4f5 Level-0 table #116: started
+2023/04/01-11:52:02.239 4f5 Level-0 table #116: 477136 bytes OK
+2023/04/01-11:52:02.245 4f5 Delete type=0 #110
+2023/04/01-11:52:02.245 4f5 Delete type=3 #108
+2023/04/01-11:52:03.968 4f8 Moved #116 to level-1 477136 bytes OK: files[ 0 1 4 0 0 0 0 ]
+2023/04/01-11:52:13.995 4f5 Compacting 1@1 + 4@2 files
+2023/04/01-11:52:14.169 4f5 Generated table #118@1: 44280 keys, 2369690 bytes
+2023/04/01-11:52:14.277 4f5 Generated table #119@1: 27935 keys, 2193721 bytes
+2023/04/01-11:52:14.437 4f5 Generated table #120@1: 69681 keys, 2227107 bytes
+2023/04/01-11:52:14.443 4f5 Generated table #121@1: 1213 keys, 27588 bytes
+2023/04/01-11:52:14.443 4f5 Compacted 1@1 + 4@2 files => 6818106 bytes
+2023/04/01-11:52:14.444 4f5 compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/04/01-11:52:14.445 4f5 Delete type=2 #116
+2023/04/01-11:52:14.445 4f5 Delete type=2 #114
+2023/04/01-11:52:14.445 4f5 Delete type=2 #113
+2023/04/01-11:52:14.445 4f5 Delete type=2 #112
+2023/04/01-11:52:14.445 4f5 Delete type=2 #111
+2023/04/01-13:48:50.180 e02 Level-0 table #123: started
+2023/04/01-13:48:50.229 e02 Level-0 table #123: 1266858 bytes OK
+2023/04/01-13:48:50.232 e02 Delete type=0 #117
+2023/04/01-13:48:50.727 e02 Compacting 1@1 + 4@2 files
+2023/04/01-13:48:50.848 e02 Generated table #124@1: 46375 keys, 2373769 bytes
+2023/04/01-13:48:50.900 e02 Generated table #125@1: 27026 keys, 2187356 bytes
+2023/04/01-13:48:50.979 e02 Generated table #126@1: 65133 keys, 2227266 bytes
+2023/04/01-13:48:50.989 e02 Generated table #127@1: 7653 keys, 161639 bytes
+2023/04/01-13:48:50.989 e02 Compacted 1@1 + 4@2 files => 6950030 bytes
+2023/04/01-13:48:50.991 e02 compacted to: files[ 0 0 4 0 0 0 0 ]
+2023/04/01-13:48:50.992 e02 Delete type=2 #123
+2023/04/01-13:48:50.992 e02 Delete type=2 #118
+2023/04/01-13:48:50.992 e02 Delete type=2 #121
+2023/04/01-13:48:50.992 e02 Delete type=2 #120
+2023/04/01-13:48:50.992 e02 Delete type=2 #119
+2023/04/01-14:37:23.951 128a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/01-14:37:23.953 128a Manual compaction at level-1 from (begin) .. (end); will stop at (end)
